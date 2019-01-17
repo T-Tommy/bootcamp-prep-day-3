@@ -1,1 +1,1 @@
-# bootcamp-prep-day-3
+# Bootcamp Prep Day 3
